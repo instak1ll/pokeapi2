@@ -1,0 +1,25 @@
+body {
+  background: white;
+}
+
+.container{
+  border: black solid 1px;
+  height: 100vw;
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.h2{
+
+}
+
+.pokemon-img{
+
+}
+
+.info{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
